@@ -1,9 +1,0 @@
-loss = 5 * loss_main_model
-
-240
-Test set: Average total loss: 13876.9951, Accuracy: 2613.0/2947 (88.6664%), Aux Accuracy:2592.0/2947 (87.9539%)
-
-('Test main mean scalar is', [[tensor(1.00000e-02 *
-       7.9342, device='cuda:3'), tensor(0.3841, device='cuda:3'), tensor(0.1163, device='cuda:3'), tensor(0.1433, device='cuda:3'), tensor(0.1723, device='cuda:3'), tensor(0.1047, device='cuda:3')]])
-('Test loss main: {}, test loss aux: {} is', tensor(2.3544, device='cuda:3'), tensor(2.1198, device='cuda:3'))
-

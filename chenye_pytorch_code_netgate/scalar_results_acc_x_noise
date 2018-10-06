@@ -1,0 +1,18 @@
+Aux path noise
+
+('Test main mean scalar is', [[tensor(0.1767, device='cuda:3'), tensor(0.2120, device='cuda:3'), tensor(0.1784, device='cuda:3'), tensor(0.1445, device='cuda:3'), tensor(0.1289, device='cuda:3'), tensor(0.1594, device='cuda:3')]])
+
+Aux path clean:
+
+('Test main mean scalar is', [[tensor(0.1889, device='cuda:3'), tensor(0.2064, device='cuda:3'), tensor(0.1572, device='cuda:3'), tensor(0.1309, device='cuda:3'), tensor(0.1646, device='cuda:3'), tensor(0.1519, device='cuda:3')]])
+
+('Test main mean scalar is', [[tensor(0.1881, device='cuda:3'), tensor(0.2099, device='cuda:3'), tensor(0.1575, device='cuda:3'), tensor(0.1368, device='cuda:3'), tensor(0.1562, device='cuda:3'), tensor(0.1515, device='cuda:3')]])
+
+Netgate noise:
+87
+('Test scalar is', [[tensor(0.1677, device='cuda:3'), tensor(0.1986, device='cuda:3'), tensor(0.1987, device='cuda:3'), tensor(0.1438, device='cuda:3'), tensor(0.1376, device='cuda:3'), tensor(0.1537, device='cuda:3')]])
+
+('Test scalar is', [[tensor(0.1689, device='cuda:3'), tensor(0.1952, device='cuda:3'), tensor(0.2006, device='cuda:3'), tensor(0.1431, device='cuda:3'), tensor(0.1386, device='cuda:3'), tensor(0.1535, device='cuda:3')]])
+
+('Test scalar is', [[tensor(0.1701, device='cuda:3'), tensor(0.1946, device='cuda:3'), tensor(0.2020, device='cuda:3'), tensor(0.1409, device='cuda:3'), tensor(0.1367, device='cuda:3'), tensor(0.1556, device='cuda:3')]])
+
